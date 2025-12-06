@@ -3,26 +3,28 @@
 
 ---
 
-## Skills & Technologies
+### **Programming:**  
+`Python` `C` `C++` `Java`
 
-**Programming:**  
-`Python` `C` `C++` `Rust (learning)`  
+### **AI / ML:**  
+`PyTorch` `ONNX` `SNNtorch` `OpenCV` `CUDA` `Computer Vision`
 
-**AI/ML:**  
-`PyTorch` `ONNX` `SNNtorch` `OpenCV` `CUDA`
+### **Full-Stack Development:**  
+`HTML` `CSS` `JavaScript` `Node.js` `Express` `React` `REST APIs` `SQL` `MongoDB` `Docker`
 
-**Embedded Systems:**  
-`STM32` `Raspberry Pi Pico` `Nextion HMI` `TRIAC Control` `PID Control`  
+### **Embedded Systems:**  
+`STM32` `Raspberry Pi Pico` `Nextion HMI` `TRIAC Control` `PID Control`
 
-**Toolchains:**  
-`LLVM` `Clang` `VTune Profiler` `RISC-V Toolchain` `Docker`  
+### **Toolchains:**  
+`Docker` `LLVM` `Clang` `RISC-V Toolchain`
 
-**Other:**  
+### **Other:**  
 `Git` `Linux` `KiCad` `SPICE` `3D CAD`
+
 
 ---
 
-#  Public Projects (🔗 Public Repositories on Profile)
+#  Public Projects on Profile
 
 ###  **Realtime AI Voice Agent**
 
